@@ -1,4 +1,4 @@
-# inference_engine
+# game_of_life
 
 An implementation of the [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), the cellular automaton devised by the British mathematician [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) in 1970, using [go](https://golang.org/) with the [sdl2](https://github.com/veandco/go-sdl2) package. __(linux)__
 
