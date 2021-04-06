@@ -1,7 +1,8 @@
 # inference_engine
-an implementation of ("Game of Life")[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life], the cellular automaton devised by the British mathematician (John Horton Conway)[https://en.wikipedia.org/wiki/John_Horton_Conway] in 1970, using (go)[https://golang.org/] with the (sdl2)[https://github.com/veandco/go-sdl2] package.
+an implementation of ["Game of Life"](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), the cellular automaton devised by the British mathematician [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) in 1970, using (go)[https://golang.org/] with the [sdl2](https://github.com/veandco/go-sdl2) package. __(linux)__
 
-![Recordit GIF](https://i.ibb.co/Sx7nNrn/ezgif-com-crop.gif)
+![Recordit GIF](https://github.com/trixky/game_of_life/blob/main/demo/demo.gif)
+
 
 > This program generates patterns of 50 by 50.
 
