@@ -47,7 +47,7 @@ func next(cells *[cellNumber][cellNumber]bool) {
 				// ---------- cell stays alive
 			} else if cells_point[y][x] == 3 {
 				(*cells)[y][x] = true
-				// ---------- cell stays born
+				// ---------- cell born
 			}
 		}
 	}
